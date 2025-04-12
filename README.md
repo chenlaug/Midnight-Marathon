@@ -14,7 +14,7 @@ You can play the game on Itch.io: [Itch.io Link](https://ninikow.itch.io/midnig
 
 ### Installation
 
-1.  git clone https://github.com/GolfOcean334/Game-Jam.git
+1.  git clone https://github.com/chenlaug/Midnight-Marathon.git
     
 2.  Open the project in your preferred game development environment (e.g., Unity).
     
